@@ -16,3 +16,5 @@ npm-debug.log
 
 # Webstorm
 .idea/
+winston-sentry.ipr
+winston-sentry.iws
